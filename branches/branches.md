@@ -20,12 +20,11 @@ After you finish implementing the funcionalities and using the git as you'd norm
 For that, you'll need to do the following:
 
 ```
-	git checkout anotherBranch
-	git merge origin currBranch
-	git push 
+git checkout anotherBranch
+git merge origin currBranch
+git push 
 ```
 
 ### Conventions when working with branches.
 In case you're working in a big team, remember that commits are atomic. So check  ``git status`` before you commit.
 Remember as well to pull changes from git when starting to work, in order to avoid overwrites at codes.
-
