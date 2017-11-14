@@ -45,8 +45,9 @@ git diff --staged | Shows file differences between staging and the last file ver
 
 ### Commiting, pushing and pulling into repository
 As commented above, it is commits are atomic and for them to be available for other contributors and users of the project, you must push the changes into the remote repository so they can access it.
+It is usual as well to pull changes from the remote repo when starting to work, in this way you can avoid conflicts easier (see [branches](https://github.com/Es7evam/Git-pocket-guide/tree/master/branches) for more information about this).
 
-Command | Function1
+Command | Function
 :-------------------- | -----------------------
 git commit -m "Descriptive message about commit" | Records file snapshots permanently in version history
 git push | Pushes current branch into remote repository.
