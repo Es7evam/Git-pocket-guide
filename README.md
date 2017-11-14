@@ -1,5 +1,13 @@
 # Git Pocket Guide
  This is a pocket guide for git. You'll find informations about commands and conventions inside the respective folders. Each of the files will contain some examples based on this repository.
+ I personally recommend the following reading order
+ - [Initial config and creation](https://github.com/Es7evam/Git-pocket-guide/tree/master/initial%20config%20and%20creation)
+ - [Branches](https://github.com/Es7evam/Git-pocket-guide/tree/master/branches)
+
+## TODO
+ - Forks explanation
+ - Logging
+ - Stash using
  
 # README guide
 Here you'll find a paragraph of project description, like above.
