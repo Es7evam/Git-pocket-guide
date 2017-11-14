@@ -8,6 +8,9 @@
  - Forks explanation
  - Logging
  - Stash using
+ - Branch deletion and cleaning
+ - [Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)
+ - [Interactive staging](https://git-scm.com/book/en/v2/Git-Tools-Interactive-Staging)
  
 # README guide
 Here you'll find a paragraph of project description, like above.
