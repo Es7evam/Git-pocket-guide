@@ -11,8 +11,9 @@ Command | Function
 :-------------------- | -----------------------
 git branch nameOfBranch     | Create new branch with name .
 git checkout nameOfBranch	| Set the current working branch as this one.
-git push origin nameOfBranch| Pushes the branch to github.
+git push origin nameOfBranch| Pushes the branch to remote repo.
 git branch 					| List all branches. * in the current one.
+git push --all 				| Pushes all the branches to remote repo.
 
 ### Merging branches
 
