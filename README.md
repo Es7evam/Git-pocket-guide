@@ -3,9 +3,9 @@
  I personally recommend the following reading order
  - [Initial config and creation](https://github.com/Es7evam/Git-pocket-guide/tree/master/initial%20config%20and%20creation)
  - [Branches](https://github.com/Es7evam/Git-pocket-guide/tree/master/branches)
+ - [Forks](https://github.com/Es7evam/Git-pocket-guide/tree/master/forks)
 
 ## TODO
- - Forks explanation
  - Logging
  - Stash using
  - Branch deletion and cleaning
