@@ -41,7 +41,8 @@ git fetch upstream
 git merge upstream/master
 ```
 If there are no conflicts they will be merged.
-If you want to fetch all the branches at once, you may use git fetch --all
+If you want to fetch all the branches at once, you may use ``git fetch --all``.
+
 Don't forget that if you want to push or pull the changes from a repo you must now specify which one you want, using, for example, if you want to push changes at the original repo and at the branch master:
 ```
 git push upstream master
